@@ -2,14 +2,28 @@
     <channel>
         <title><![CDATA[MUSIC PRODUCER | DJ]]></title>
         <description><![CDATA[MUSIC PRODUCER | DJ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vondicarlo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 19:56:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 31 May 2016 20:01:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vondicarlo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[VON DI CARLO]]></title>
+            <description><![CDATA[<article><h1>VON DI CARLO</h1><p>(◕‿◕✿)# toasty 21 year old fun girl from Portugal! I make music for me and for others CONTACT / REMIX REQUESTS: vondicarlo@gmail.com BIO: Lisbon's own Von Di Carlo has worked early on as a music producer with support from top portuguese main acts such as Branko, Xinobi, Buraka Som Sistema, Karetus, Kura, Blaya among many others as well as international acts such as Thomas Gold, Chuckie, Adrian Lux, Quentin Mosiman, to name a few.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b14d6134ab0baacfd4d5bf4ae4f78bbf13feafc7.jpg"></article>]]></description>
+            <link>https://soundcloud.com/vondicarlo</link>
+            <guid isPermaLink="false">2accc581-f55d-4ef4-87ae-4f1ab2b678dc</guid>
+            <pubDate>Tue, 31 May 2016 20:01:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[VON DI CARLO ☆彡 (@vondicarlo) * Instagram photos and videos]]></title>
+            <description><![CDATA[<article><h1>VON DI CARLO ☆彡 (@vondicarlo) * Instagram photos and videos</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/efcf14d3c3e9dda49f276fb5ceb1574cfb25f4fd.jpg"></article>]]></description>
+            <link>https://www.instagram.com/vondicarlo/</link>
+            <guid isPermaLink="false">d312d9a6-21f9-4c63-a174-c627a54f7947</guid>
+            <pubDate>Tue, 31 May 2016 19:56:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3ab48a2-d3d3-4587-ba51-4f85be1b002e.jpg">]]></description>
-            <link>undefined6fabe6aa-5dfc-4fe1-b2fb-0f06e84171a2/index.html</link>
+            <link>https://thegrid.ai/vondicarlo/6fabe6aa-5dfc-4fe1-b2fb-0f06e84171a2/index.html</link>
             <guid isPermaLink="false">6fabe6aa-5dfc-4fe1-b2fb-0f06e84171a2</guid>
             <pubDate>Tue, 31 May 2016 19:56:52 GMT</pubDate>
         </item>
