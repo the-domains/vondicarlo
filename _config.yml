@@ -1,0 +1,14 @@
+layout_spectrum: 0.4410912881139666
+typography_spectrum: 0.9402517783455551
+color:
+  brandStrength: 0.7672246492002159
+  lightness: 0.08949109865352511
+  saturation: 0.49111409205943346
+  rhythmicContrast: 0.6320088300853968
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: vondicarlo
