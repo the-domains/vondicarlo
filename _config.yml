@@ -1,15 +1,15 @@
-layout_spectrum: 0.4410912881139666
-typography_spectrum: 0.9402517783455551
+layout_spectrum: 0.645003302488476
+typography_spectrum: 0.8497855805326253
 color:
-  brandStrength: 0.7672246492002159
-  lightness: 0.08949109865352511
-  saturation: 0.49111409205943346
-  rhythmicContrast: 0.6320088300853968
+  brandStrength: 0.39773993962444365
+  lightness: 0.3502499768510461
+  saturation: 0.8462153822183609
+  rhythmicContrast: 0.20252288156189024
   brandColors:
-    - '#2F2933'
-    - '#01A2A6'
-    - '#29D9C2'
-    - '#BDF271'
-    - '#FFFFA6'
+    - '#B4AF91'
+    - '#787746'
+    - '#40411E'
+    - '#32331D'
+    - '#C03000'
 name: VON DI CARLO
 title: 'MUSIC PRODUCER | DJ'
