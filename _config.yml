@@ -11,7 +11,7 @@ color:
   saturation: 0.8462153822183609
   rhythmicContrast: 0.20252288156189024
 opengraph:
-  image: null
+  image: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/f865166d-d036-49a8-87be-315b60d91f1f.jpg'
   type: null
   appId: null
 layout_spectrum: 0.645003302488476
@@ -19,6 +19,7 @@ analytics:
   google: null
   facebook: null
   twitter: null
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/a98ea671-a664-4565-8fba-8d9b720fb532.pdf'
 name: VON DI CARLO
 cta:
   domain: null
