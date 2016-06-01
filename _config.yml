@@ -1,15 +1,29 @@
+name: VON DI CARLO
+favicon: null
 layout_spectrum: 0.645003302488476
 typography_spectrum: 0.22097469703294337
+title: 'VON DI CARLO '
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.39773993962444365
-  lightness: 0.3502499768510461
-  saturation: 0.8462153822183609
-  rhythmicContrast: 0.20252288156189024
   brandColors:
     - '#B4AF91'
     - '#787746'
     - '#40411E'
     - '#32331D'
     - '#C03000'
-name: VON DI CARLO
-title: 'MUSIC PRODUCER | DJ'
+  brandStrength: 0.39773993962444365
+  lightness: 0.3502499768510461
+  saturation: 0.8462153822183609
+  rhythmicContrast: 0.20252288156189024
+purpose: []
