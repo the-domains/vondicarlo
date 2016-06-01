@@ -1,30 +1,42 @@
-typography_spectrum: 0.22097469703294337
+title: 'VON DI CARLO '
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandColors:
-    - '#B4AF91'
-    - '#787746'
-    - '#40411E'
-    - '#32331D'
-    - '#C03000'
-  brandStrength: 0.39773993962444365
-  lightness: 0.3502499768510461
   saturation: 0.8462153822183609
-  rhythmicContrast: 0.20252288156189024
+  brandStrength: 0.3297491
+  lightness: 0.3502499768510461
+  brandColors:
+    - '#102020'
+    - '#926950'
+    - '#307273'
+    - '#D7B697'
+    - '#D1EDE6'
+  rhythmicContrast: 0.2025228815618902
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: VON DI CARLO
+favicon: null
 opengraph:
   image: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/f865166d-d036-49a8-87be-315b60d91f1f.jpg'
   type: null
   appId: null
-layout_spectrum: 0.645003302488476
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/a98ea671-a664-4565-8fba-8d9b720fb532.pdf'
-name: VON DI CARLO
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
-title: 'VON DI CARLO '
-purpose: []
+typography_spectrum: 0.1630824
+layout_spectrum: 0.9659498
