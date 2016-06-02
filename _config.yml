@@ -1,7 +1,7 @@
 name: VON DI CARLO
 favicon: null
 layout_spectrum: 0.18841303163208067
-typography_spectrum: 0.1630824
+typography_spectrum: 0.49385178461670876
 title: 'VON DI CARLO '
 collections:
   - index:
@@ -30,13 +30,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#102020'
-    - '#926950'
-    - '#307273'
-    - '#D7B697'
-    - '#D1EDE6'
-  brandStrength: 0.3297491
-  lightness: 0.3502499768510461
-  saturation: 0.8462153822183609
-  rhythmicContrast: 0.2025228815618902
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+  brandStrength: 0.2821166035719216
+  lightness: 0.4798661288805306
+  saturation: 0.9245417492929846
+  rhythmicContrast: 0.40843958826735616
 purpose: []
