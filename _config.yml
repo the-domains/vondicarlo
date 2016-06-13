@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.9245417492929846
-  brandStrength: 0.374552
-  lightness: 0.4798661288805306
+  saturation: 0.1971326
+  brandStrength: 1
+  lightness: 0.8942652
   brandColors:
-    - '#77B8F2'
-    - '#30302E'
-    - '#FFFFFC'
-    - '#AA7947'
-    - '#E7AB72'
-  rhythmicContrast: 0.4084395882673562
+    - '#0F0100'
+    - '#3C5B55'
+    - '#FFFFFF'
+    - '#FF1F16'
+    - '#649484'
+  rhythmicContrast: 0.8691756
 cta:
   bucket: null
   version: null
@@ -34,9 +34,11 @@ analytics:
 favicon: null
 name: VON DI CARLO
 opengraph:
-  image: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/f865166d-d036-49a8-87be-315b60d91f1f.jpg'
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/f865166d-d036-49a8-87be-315b60d91f1f.jpg
   type: null
   appId: null
-logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/a98ea671-a664-4565-8fba-8d9b720fb532.pdf'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a98ea671-a664-4565-8fba-8d9b720fb532.pdf
 typography_spectrum: 0.03661
-layout_spectrum: 0.2329749
+layout_spectrum: 0.688172
