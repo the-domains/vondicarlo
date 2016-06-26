@@ -1,5 +1,8 @@
+name: VON DI CARLO
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.37187
 title: 'VON DI CARLO '
-purpose: []
 collections:
   - index:
       path: /
@@ -12,33 +15,30 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a98ea671-a664-4565-8fba-8d9b720fb532.pdf
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/f865166d-d036-49a8-87be-315b60d91f1f.jpg
+  type: null
+  appId: null
 color:
-  saturation: 0.1971326
-  brandStrength: 1
-  lightness: 0.8942652
   brandColors:
     - '#0F0100'
     - '#3C5B55'
     - '#FFFFFF'
     - '#FF1F16'
     - '#649484'
+  brandStrength: 1
+  lightness: 0.8942652
+  saturation: 0.1971326
   rhythmicContrast: 0.8691756
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: VON DI CARLO
-opengraph:
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/f865166d-d036-49a8-87be-315b60d91f1f.jpg
-  type: null
-  appId: null
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a98ea671-a664-4565-8fba-8d9b720fb532.pdf
-typography_spectrum: 0.03661
-layout_spectrum: 0.688172
+purpose: []
